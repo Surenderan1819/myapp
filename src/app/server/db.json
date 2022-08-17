@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "fname": "Surenderan",
+      "lname": "B",
+      "email": "suren@gmail.com",
+      "phone": "9898987656",
+      "dob": "1999-08-27"
+    },
+    {
+      "fname": " Ayush",
+      "lname": " S",
+      "email": "ayush@gmail.com",
+      "phone": " 7830325406",
+      "dob": "2000-01-29",
+      "id": 1
+    },
+    {
+      "fname": " Babu",
+      "lname": "Pujala",
+      "email": "babu@gmail.com",
+      "phone": "6767567893",
+      "dob": "2000-01-01",
+      "id": 2
+    },
+    {
+      "fname": " Logesh",
+      "lname": " S",
+      "email": "logesh@gmail.com",
+      "phone": "7904114692",
+      "dob": "2000-01-01",
+      "id": 3
+    },
+    {
+      "fname": " Tony",
+      "lname": "Stark",
+      "email": "tony@gmail.com",
+      "phone": "5678987656",
+      "dob": "2000-01-01",
+      "id": 4
+    },
+    {
+      "fname": "Surenderan",
+      "lname": "B",
+      "email": "Surenderan.B@ibm.com",
+      "phone": "7904059151",
+      "dob": "2000-01-01",
+      "id": 5
+    },
+    {
+      "fname": "Surenderan",
+      "lname": "B",
+      "email": "Surenderan.B@ibm.com",
+      "phone": "7904059151",
+      "dob": "2000-01-01",
+      "id": 6
+    },
+    {
+      "fname": "Ayush",
+      "lname": "Saxena",
+      "email": "ayush.saxena2@ibm.com",
+      "phone": " ",
+      "dob": "2000-01-01",
+      "id": 7
+    }
+  ]
+}
